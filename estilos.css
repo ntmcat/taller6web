@@ -1,0 +1,24 @@
+.custom{
+    background-color: #cdcdcd;
+    
+}
+.form_custom{
+    background-color: whitesmoke;
+    padding: 40px 30px; 
+    
+    border-radius: 10px;
+}
+
+.custom_span{
+    background: none;
+}
+
+.custom_flag{
+    width: 100%;
+    color:white;
+}
+
+.text_custom{
+    font-size: 11px;
+    color: gray;
+}
